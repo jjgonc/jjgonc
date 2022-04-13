@@ -42,16 +42,18 @@
 
 ## 📩 &nbsp;Social Links
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josejoaogoncalves/)
+<!--
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/josejoaogoncalves/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-josejoaogoncalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <!--
+
 <a href="https://instagram.com/jjgonc" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jjgonc-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>-->
+</a>
 </p>
-
+-->
 
 
 <!--
