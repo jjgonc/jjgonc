@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm José Gonçalves</h1>
+<h1 align="left">Hi, I'm José Gonçalves</h1>
 
 - 📚 I'm a 3rd year Software Engineering student.
 
