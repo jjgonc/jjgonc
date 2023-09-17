@@ -33,13 +33,13 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<!--<p align="left">
+<p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jjgonc&show_icons=true&theme=vision-friendly-dark" alt="jjgonc's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjgonc&layout=compact&theme=vision-friendly-dark" alt="jjgonc's most used languages"/>
-</p>-->
-<p align="center" >&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jjgonc&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="jjgonc" />
+</p>
+<!--<p align="center" >&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jjgonc&show_icons=true&locale=en&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="jjgonc" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjgonc&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&bg_color=00000000&icon_color=0ef047" alt="jjgonc" /></p>
-
+-->
 
 <br>
 
