@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm José Gonçalves</h1>
 
-- 📚 I'm a 3rd year Software Engineering student.
+- 📚 I graduated from my Bachelor's Degree in Software Engineering in 2022 and my Master's Degree in 2024, also in Software Engineering.
 
-- 🔭 I’m currently studying at [Universidade do Minho](https://www.uminho.pt/).
+- 🔭 I'm a disciplined, organized and curious person, especially regarding all topics related to technology.
 
 <br>
 
